@@ -1,5 +1,3 @@
-# Car_Sales_Dashboard
-
 # 🚗 Car Sales Dashboard
 
 A dynamic, interactive Power BI dashboard visualizing car sales performance over time. Designed in Figma and built with Power BI Desktop, this report leverages advanced DAX, bookmarks, and custom navigation to help stakeholders explore key metrics—sales trends, regional performance, and model comparisons—at a glance.
